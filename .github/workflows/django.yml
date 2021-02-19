@@ -20,3 +20,5 @@ jobs:
         pip install pipenv
         pipenv sync --dev
     - name: Rodar testes automatizados
+      run:
+        pipenv run pytest webdev
