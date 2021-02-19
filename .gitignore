@@ -1,2 +1,4 @@
 .js
 .vscode
+.webdev\__pycache__
+.pytest_cache
