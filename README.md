@@ -1,1 +1,1 @@
-# web-dev-django
+# Projeto de desenvolvimento em Django
